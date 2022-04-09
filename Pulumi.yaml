@@ -1,0 +1,3 @@
+name: docker-local-image
+runtime: nodejs
+description: A minimal Google Cloud TypeScript Pulumi program

@@ -1,0 +1,11 @@
+{
+    "name": "docker-local-image",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/docker": "^3.2.0",
+        "@pulumi/gcp": "^6.0.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
